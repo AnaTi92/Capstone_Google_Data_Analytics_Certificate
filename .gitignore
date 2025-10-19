@@ -1,0 +1,16 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.db
+data/raw/*
+!data/raw/placeholder.txt
+data/*.rda
+data/*.sav
+data/*.dta
+*.twb
+*.twbx
+*.hyper
+output/*.csv
+output/*.txt
