@@ -47,6 +47,10 @@ Variable definitions follow the *easySHARE 9.0.0 Release Guide* (SHARE-ERIC 2024
 the *Scales Manual 9.0.0* (Gruber et al., 2024).
 
 ---
+This project explores how social inclusion and physical health relate to mental wellbeing among ageing Europeans.
+Using SHARE (Survey of Health, Ageing and Retirement in Europe) data, I applied multiple linear regression and produced several visual insights in R.
+
+---
 
 ## 🧩 Repository Structure
 The repository is organized as follows:
